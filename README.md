@@ -14,6 +14,7 @@ The pipeline focuses on:
 
 ## Directory Structure
 
+```text
 imageAnalystPipeline/
 │
 ├── data/
