@@ -1,21 +1,3 @@
-Your content is **mostly correct**, but there are a few **real issues** that must be fixed to make it assignment-ready and professional:
-
-### What was wrong
-
-1. Broken Markdown formatting (code blocks + headings mixed)
-2. Environment setup section incomplete and malformed
-3. Slight redundancy in explanations
-4. One confusing sentence about “upload manual data”
-5. README a bit longer than needed for an assignment
-
-Below is a **cleaned, shortened, corrected version**.
-No information is lost. Formatting is correct. This is **safe to submit**.
-
----
-
-##  **Final Corrected `README.md` (Assignment-Ready)**
-
-````markdown
 # Image Analyst Processing Pipeline  
 **Sentinel-1 SAR & Sentinel-2 Optical Analysis**
 
@@ -32,7 +14,6 @@ The pipeline focuses on:
 
 ## Directory Structure
 
-```text
 imageAnalystPipeline/
 │
 ├── data/
