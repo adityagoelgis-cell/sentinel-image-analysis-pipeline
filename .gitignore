@@ -1,0 +1,42 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+__init__.py
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local configuration
+.env
+
+# Data (raw and processed satellite data)
+data/raw/**
+data/processed/**
+
+# SNAP / GIS temporary files
+*.aux.xml
+*.ovr
+*.tmp
+
+# Raster thumbnails / pyramids
+*.rrd
+
+# Jupyter (if ever used)
+.ipynb_checkpoints/
+
+!data/**/.gitkeep
